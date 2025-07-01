@@ -1,0 +1,11 @@
+# Mock Interview AI - Python Requirements
+# No external dependencies required for basic functionality
+# All functionality uses Python standard library
+
+# Optional dependencies for enhanced features:
+# flask>=2.0.0          # For web API
+# fastapi>=0.68.0       # Alternative web framework
+# pydantic>=1.8.0       # Data validation
+# sqlalchemy>=1.4.0     # Database ORM
+# openai>=0.27.0        # For real AI integration
+# python-dotenv>=0.19.0 # Environment variables
